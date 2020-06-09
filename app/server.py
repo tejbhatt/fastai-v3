@@ -9,7 +9,7 @@ from starlette.middleware.cors import CORSMiddleware
 from starlette.responses import HTMLResponse, JSONResponse
 from starlette.staticfiles import StaticFiles
 
-export_file_url = 'https://drive.google.com/file/d/148vpYL5RevbzWctClMzw9nlFzJazPPNz/view?usp=sharing'
+export_file_url = 'https://drive.google.com/file/d/1VCUfpAkWdRAc8CHLk03QjWM9HPYPRhqG/view?usp=sharing'
 export_file_name = 'monkeybreed.pkl'
 
 classes = [ 'mantled_howler','patas_monkey','bald_uakari','japanese_macaque','pygmy_marmoset','white_headed_capuchin','silvery_marmoset','common_squirrel_monkey','black_headed_night_monkey', 'nilgiri_langur' ]
